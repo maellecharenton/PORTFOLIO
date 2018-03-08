@@ -1,0 +1,155 @@
+body {
+background-color: white;
+color: 	#450027;
+font-family: 'Poiret One', cursive;
+
+}
+
+header {
+min-height: 100vh;
+background-image:url('images/pont.jpg');
+background-size: cover;
+background-position: top center;
+display: flex;
+justify-content: top left;
+align-items: top left;
+}
+
+h1 {
+font-family: 'Amatic SC', cursive;
+font-size: 3em;
+padding: 50px;
+color: #FBEBDB;
+align-items: center;
+}
+
+p1 {
+  color: #450027;
+  font-size: 1.5em;
+}
+
+section {
+
+}
+
+.header-content-block {
+justify-content: top left;
+padding: 5px;
+}
+
+.header-content-block h1 {
+font-size: 4em;
+font-family: 'Quicksand', sans-serif;
+color: #450027;
+}
+
+h2 {
+  font-family: 'Amatic SC', cursive;
+  font-size: 3em;
+  padding-bottom: 20px;
+}
+
+#bio {
+  min-height: 45vh;
+  display: flex;
+  align-items: center;
+}
+
+.bio-content-block {
+padding: 55px;
+margin-left: 50px;
+margin-right: 50px;
+}
+
+#comp {
+  background-color: #31081F;
+  color: #fff;
+}
+
+.comp-section-content {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.comp-content-block {
+  margin: 20px;
+  max-width: 320px;
+  width: auto;
+}
+
+.comp-content-block img {
+  width: 100%;
+}
+
+
+h3 {
+  font-family: 'Amatic SC', cursive;
+  font-size: 3em;
+}
+
+#portfolio {
+}
+
+a {
+  color: #86ECF9;
+  font-family: 'Amatic SC', cursive;
+  font-size: 1.5em;
+  margin: 1em;
+
+
+}
+
+.portfolio-section-content {
+  display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+
+.portfolio-content-block {
+padding: 22px;
+  max-width: 480px;
+  margin: 20px;
+  position: relative;
+  width: auto;
+}
+
+.portfolio-content-block img {
+  width: 100%;
+}
+
+footer {
+
+}
+
+.adress {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+.social-links {
+  margin: 0;
+      padding: 0;
+      border: 0;
+      font-size: 100%;
+      font: inherit;
+      vertical-align: baseline;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
